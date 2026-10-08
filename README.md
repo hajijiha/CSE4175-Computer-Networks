@@ -12,10 +12,10 @@
 
 ## 프로젝트
 
-| 순서 | 프로젝트 | 구현 내용 |
-|---|---|---|
-| [mp1](mp1/README.md) | Reliable Data Transfer | CRC-32와 ARQ 기반 신뢰성 있는 전송 |
-| [mp2](mp2/README.md) | Dynamic Routing | 네트워크 변화에 대응하는 분산 라우팅 |
+| 순서 | 프로젝트 | 구현 내용 | 과제 자료 |
+|---|---|---|---|
+| [mp1](mp1/README.md) | Reliable Data Transfer | CRC-32와 ARQ 기반 신뢰성 있는 전송 | [과제 설명](mp1/docs/assignment.pdf) |
+| [mp2](mp2/README.md) | Dynamic Routing | 네트워크 변화에 대응하는 분산 라우팅 | [과제 설명](mp2/docs/mp2.pdf) |
 
 ## 저장소 구조
 
@@ -30,6 +30,6 @@ CSE4175-Computer-Networks/
 ## 자료 출처
 
 프로젝트에는 구현 소스와 수업 제공 스켈레톤·테스트 도구가 포함됩니다.
-제공 코드의 라이선스와 팀원별 저작권은 각 원본 파일에 명시되어 있습니다.
+수업 제공 코드와 도구의 출처·라이선스는 각 원본 파일의 표기를 따릅니다.
 
 [빌드 및 테스트](docs/verification.md)
