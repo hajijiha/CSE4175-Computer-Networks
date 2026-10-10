@@ -31,7 +31,7 @@ g++ -O2 -o router_20211605 router_20211605.cc netsim2_lib.cc
 
 검증 범위는 공개 시나리오 `val1`~`val4`입니다.
 
-## 문서와 출처
+## 문서
 
 - [과제 설명](docs/mp2.pdf)
 - [제공 패키지 안내](README.txt)
